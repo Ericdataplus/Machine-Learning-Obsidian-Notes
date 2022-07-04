@@ -1,10 +1,11 @@
 # Machine Learning
+General Workflow -
+- [[data scraping]] 
+- [[data cleaning]]
+- [[data analysis & visualization]]
+- [[train model]]
+- [[accuracy testing]] 
+- [[feature engineering]]
+- [[Deploying]]
 
-workflow
-- get data 
-- clean data
-- run data through model
-- test accuracy 
-- iterate to improve accuracy
-- deploy to world
 
