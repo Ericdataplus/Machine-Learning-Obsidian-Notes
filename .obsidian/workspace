@@ -7,8 +7,12 @@
         "id": "37d8393e55881cde",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "full stack.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "full stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +89,15 @@
   },
   "active": "37d8393e55881cde",
   "lastOpenFiles": [
-    "Machine Learning Workflow.md",
+    "full stack.md",
     "Deploying.md",
-    "feature engineering.md",
-    "accuracy testing.md",
-    "train model.md",
-    "data analysis & visualization.md",
+    "Machine Learning Workflow.md",
     "data cleaning.md",
-    "data scraping.md"
+    "data analysis & visualization.md",
+    "accuracy testing.md",
+    "data scraping.md",
+    "feature engineering.md",
+    "Default Tabular Pipeline/list comprehensions.md",
+    "More Neat Notes for XGBoost/One Hot Encoding.md"
   ]
 }
