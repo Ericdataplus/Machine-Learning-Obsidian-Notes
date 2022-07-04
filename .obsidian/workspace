@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Machine Learning.md",
+            "file": "Machine Learning Workflow.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Machine Learning Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,13 @@
   },
   "active": "37d8393e55881cde",
   "lastOpenFiles": [
-    "Machine Learning.md"
+    "Machine Learning Workflow.md",
+    "Deploying.md",
+    "feature engineering.md",
+    "accuracy testing.md",
+    "train model.md",
+    "data analysis & visualization.md",
+    "data cleaning.md",
+    "data scraping.md"
   ]
 }
