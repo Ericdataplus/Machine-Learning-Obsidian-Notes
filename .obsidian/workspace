@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "full stack.md",
+            "file": "Machine Learning Workflow.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "full stack.md",
+                "file": "Machine Learning Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   },
   "active": "37d8393e55881cde",
   "lastOpenFiles": [
-    "full stack.md",
-    "Deploying.md",
     "Machine Learning Workflow.md",
+    "Deploying.md",
+    "feature engineering.md",
+    "full stack.md",
     "data cleaning.md",
     "data analysis & visualization.md",
     "accuracy testing.md",
     "data scraping.md",
-    "feature engineering.md",
     "Default Tabular Pipeline/list comprehensions.md",
     "More Neat Notes for XGBoost/One Hot Encoding.md"
   ]
